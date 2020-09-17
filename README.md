@@ -4,3 +4,4 @@ iOS 개발자로 취업 또는 이직을 위한 공부 내용 🌱 <br>
 
 ## Questions
 1. Bounds vs Frame
+2. App의 LifeCycle
