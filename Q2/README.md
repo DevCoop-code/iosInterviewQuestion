@@ -63,9 +63,9 @@
   - **sceneDidBecomeActive(_:)**
     - Inactive -> Active
 - Background(off screen): Active - Inactive - Background( - Suspended)
-  - sceneWillResignActive(_:)
+  - **sceneWillResignActive(_:)**
     - Active -> Inactive
-  - sceneDidEnterBackground(_:)
+  - **sceneDidEnterBackground(_:)**
     - Inactive -> Background
 - Foreground(on screen): Background - Inactive - Active
   - **sceneWillEnterForeground(_:)**
